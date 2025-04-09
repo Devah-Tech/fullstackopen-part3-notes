@@ -3,8 +3,6 @@ const cors = require('cors')
 
 const app = express()
 
-app.use(cors())
-
 let notes = [
   {
     id: 1,
