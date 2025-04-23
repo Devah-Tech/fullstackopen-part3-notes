@@ -2,6 +2,7 @@ POST http://localhost:3001/api/notes
 content-type: application/json
 
 {
-	"content": "Ensure that everything still works",
-	"important": true
+	"content": "The exiting code and test need to be changed when user is added to system",
+	"important": true,
+	"userId": "6807ec85c17cba997c2c3df7"
 }
